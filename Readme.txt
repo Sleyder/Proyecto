@@ -1,4 +1,4 @@
-﻿Proyecto
+Proyecto
 
 La gestión de proyectos es la disciplina del planeamiento, la organización, la motivación, y el control de los recursos con el propósito de alcanzar uno o varios objetivos. Un proyecto es un emprendimiento temporario diseñado a producir un único producto, servicio o resultado1 con un principio y un final definido (normalmente limitados en tiempo, y en costos o entregables), que es emprendido para alcanzar objetivos únicos,2 y que dará lugar a un cambio positivo o agregará valor.
 
@@ -9,5 +9,11 @@ El primer desafío para la gestión de proyectos es alcanzar la meta del proyect
 
 El proyecto se basa en 
 
+
+-------------
+Proyecto     |
+-------------
+
+1234567890'1234567890'
 
 ========
