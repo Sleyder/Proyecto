@@ -10,8 +10,4 @@ El primer desafío para la gestión de proyectos es alcanzar la meta del proyect
 El proyecto se basa en 
 
 
--------------
-Proyecto     |
--------------
-
 ========
